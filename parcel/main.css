@@ -1,0 +1,6 @@
+.main {
+    /* 引用一张图片 */
+    background: url('./images/WechatIMG1.jpeg');
+    color: red;
+    height:700px;
+  }
